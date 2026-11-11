@@ -171,4 +171,4 @@ Networkwalks Cybersecurity Internship Program – Batch B084
 
 **Project:** Week 2 – Footprinting, Reconnaissance & Network Scanning
 
-**LinkedIn Update:** View LinkedIn Post
+**LinkedIn Update:** [View LinkedIn Post](https://lnkd.in/p/gu9sfuby)
