@@ -72,10 +72,10 @@ wafw00f https://networkwalks.com
 - Detected ModSecurity (SpiderLabs) as the WAF.
 
 **Screenshots:** 
-<img width="422" height="80" alt="Screenshot 2026-11-11 183249" src="https://github.com/user-attachments/assets/2f1a401e-88ef-49b8-9505-83fdd3a3ce12" />
-<img width="88" height="50" alt="Screenshot 2026-11-11 183316" src="https://github.com/user-attachments/assets/106b05c6-3177-4ebf-8caf-ca85d90c64b1" />
-<img width="421" height="86" alt="Screenshot 2026-11-11 183420" src="https://github.com/user-attachments/assets/2b8d8fea-01aa-451f-b09f-ca11e8394774" />
-<img width="229" height="115" alt="Screenshot 2026-11-11 183448" src="https://github.com/user-attachments/assets/209126b8-3981-4290-8ea5-4a67a893c77d" />
+!<img width="422" height="80" alt="Screenshot 2026-11-11 183249" src="https://github.com/user-attachments/assets/2f1a401e-88ef-49b8-9505-83fdd3a3ce12" />
+!<img width="88" height="50" alt="Screenshot 2026-11-11 183316" src="https://github.com/user-attachments/assets/106b05c6-3177-4ebf-8caf-ca85d90c64b1" />
+!<img width="421" height="86" alt="Screenshot 2026-11-11 183420" src="https://github.com/user-attachments/assets/2b8d8fea-01aa-451f-b09f-ca11e8394774" />
+!<img width="229" height="115" alt="Screenshot 2026-11-11 183448" src="https://github.com/user-attachments/assets/209126b8-3981-4290-8ea5-4a67a893c77d" />
 
 
 ### 2. Phase 2 – Scanning & Network Discovery
@@ -113,8 +113,8 @@ nmap -sn 10.0.0.0/24
 | `10.0.0.254` | `08:00:27:84:69:E4` | Oracle VirtualBox virtual NIC |
 
 **Screenshot:**
-<img width="347" height="211" alt="Screenshot 2026-11-11 190026" src="https://github.com/user-attachments/assets/3306a7f2-491a-4772-bc52-9f97f773dc3f" />
-<img width="122" height="175" alt="Screenshot 2026-11-11 193347" src="https://github.com/user-attachments/assets/030cfdfe-07ad-4d7f-ac8b-af1abbf9edda" />
+!<img width="347" height="211" alt="Screenshot 2026-11-11 190026" src="https://github.com/user-attachments/assets/3306a7f2-491a-4772-bc52-9f97f773dc3f" />
+!<img width="122" height="175" alt="Screenshot 2026-11-11 193347" src="https://github.com/user-attachments/assets/030cfdfe-07ad-4d7f-ac8b-af1abbf9edda" />
 
 ## 🐛 Troubleshooting
 
