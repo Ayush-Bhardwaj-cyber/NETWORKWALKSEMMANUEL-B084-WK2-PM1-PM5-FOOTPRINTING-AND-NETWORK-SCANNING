@@ -12,7 +12,7 @@ The activities covered two major phases of penetration testing: **Reconnaissance
 
 | Tool | Purpose |
 |---|---|
-| Kali Linux | Cybersecurity testing environment |
+| Kali Linux & windows | Cybersecurity testing environment |
 | WhatWeb | Identifying website technologies and server details |
 | Nslookup | Resolving domain names to IP addresses |
 | cURL | Inspecting HTTP response headers |
@@ -25,7 +25,7 @@ The activities covered two major phases of penetration testing: **Reconnaissance
 
 | Component | Configuration |
 |---|---|
-| Operating System | Kali Linux |
+| Operating System | Kali Linux & windows |
 | Virtualization | Oracle VirtualBox |
 | Network Interface | eth0 |
 | Kali IP Address | `10.0.0.2` |
@@ -71,7 +71,12 @@ wafw00f https://networkwalks.com
 - Observed an HTTP/2 200 response.
 - Detected ModSecurity (SpiderLabs) as the WAF.
 
-**Screenshots:** WhatWeb, Nslookup, cURL and Wafw00f Results
+**Screenshots:** 
+<img width="422" height="80" alt="Screenshot 2026-11-11 183249" src="https://github.com/user-attachments/assets/2f1a401e-88ef-49b8-9505-83fdd3a3ce12" />
+<img width="88" height="50" alt="Screenshot 2026-11-11 183316" src="https://github.com/user-attachments/assets/106b05c6-3177-4ebf-8caf-ca85d90c64b1" />
+<img width="421" height="86" alt="Screenshot 2026-11-11 183420" src="https://github.com/user-attachments/assets/2b8d8fea-01aa-451f-b09f-ca11e8394774" />
+<img width="229" height="115" alt="Screenshot 2026-11-11 183448" src="https://github.com/user-attachments/assets/209126b8-3981-4290-8ea5-4a67a893c77d" />
+
 
 ### 2. Phase 2 – Scanning & Network Discovery
 
@@ -79,7 +84,6 @@ Performed network discovery using Nmap and Zenmap to identify active hosts withi
 
 **Tasks performed:**
 
-- Checked the Kali Linux network interface and IP configuration.
 - Identified the local network subnet.
 - Configured a ping scan for `10.0.0.0/24`.
 - Identified active hosts on the network.
@@ -108,7 +112,9 @@ nmap -sn 10.0.0.0/24
 | `10.0.0.2` | `08:00:27:1D:C8:FB` | Kali Linux |
 | `10.0.0.254` | `08:00:27:84:69:E4` | Oracle VirtualBox virtual NIC |
 
-**Screenshot:** Zenmap Network Discovery and Topology
+**Screenshot:**
+<img width="347" height="211" alt="Screenshot 2026-11-11 190026" src="https://github.com/user-attachments/assets/3306a7f2-491a-4772-bc52-9f97f773dc3f" />
+<img width="122" height="175" alt="Screenshot 2026-11-11 193347" src="https://github.com/user-attachments/assets/030cfdfe-07ad-4d7f-ac8b-af1abbf9edda" />
 
 ## 🐛 Troubleshooting
 
@@ -157,7 +163,7 @@ Used Zenmap to visualize discovered devices and generate a network topology diag
 
 **Ayush Bhardwaj**
 
-Networkwalks Cybersecurity Internship Program – Batch B083
+Networkwalks Cybersecurity Internship Program – Batch B084
 
 **Project:** Week 2 – Footprinting, Reconnaissance & Network Scanning
 
