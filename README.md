@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This repository documents my hands-on cybersecurity activities completed during Week 2 of the Networkwalks Cybersecurity Internship Program – Batch B083.
+This repository documents my hands-on cybersecurity activities completed during Week 2 of the Networkwalks Cybersecurity Internship Program – Batch B084.
 
 The objective was to perform reconnaissance, gather information about a target domain, identify web technologies, inspect DNS records and HTTP responses, detect Web Application Firewall (WAF) technologies, and discover active hosts on a local network.
 
